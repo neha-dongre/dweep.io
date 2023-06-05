@@ -1,0 +1,52 @@
+
+body {
+  margin: 0;
+  padding:0;
+}
+
+.box1{
+  position: absolute;
+  top: 84px;
+  margin-left: 100px;
+  line-height: 2;
+  
+}
+
+.button1{
+ background-color: black;
+ color:white;
+ padding: 8px;
+ border-radius: 5px;
+    
+ 
+} 
+
+.para1{
+  position: relative;
+  color: white;
+  margin-left: 100px;
+  top:60px;
+  line-height: 1.5;   
+}
+.para2{
+  position:relative;
+  text-align: right;
+  color: white;
+  margin-right: 100px;
+  bottom:85px;
+  line-height: 1.5;
+}
+
+.custom-input{
+  height: 35px;
+  border-radius: 5px;
+  width:275px;
+} 
+
+.element{
+  color: white;
+  margin-left:20px;
+  font-size:small;
+} 
+
+
